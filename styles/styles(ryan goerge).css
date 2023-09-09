@@ -1,0 +1,102 @@
+.me{
+font-size: 59px;
+font-style: Arial;
+color: rgba(131, 0, 0, 0.747);
+margin-top: 0px;
+text-align: center;
+}
+
+.png{
+margin-left: 800px;
+background-color: rgb(255, 127, 127);
+border-radius: 40px;
+line-height: 20px;
+}
+
+.about{
+margin-left: 15px;
+width: 500px;
+font-family: arial;
+font-size: 20px;
+}
+
+.space{
+  color: crimson;
+  margin-left: 15px;
+  margin-bottom: 0px;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.videos{
+  color: rgb(220, 20, 60);
+  font-size: 25px;
+  margin-left: 15px;
+  text-decoration: underline;
+}
+
+.salsa{
+  border-radius: 3px;
+  margin-right: 10px;
+  margin-left: 15px;
+  margin-bottom: 8px;
+}
+
+.nugget{
+margin-left: 15px;
+border-radius: 3px;
+}
+
+.mean{
+  width: 480px;
+  margin-left: 15px;
+  margin-right: 24px;
+  border-radius: 3px;
+}
+
+.crying{
+  border-radius: 3px;
+}
+
+.funnylines{
+  margin-top: 30px;
+  margin-left: 15px;
+  margin-bottom: 0px;
+  color: rgb(220, 20, 60);
+  font-style: 'roboto';
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.thebadguy{
+  margin-left: 15px;
+  font-size: 18px;
+  line-height: 2px;
+}
+
+.cookie{
+  margin-left: 15px;
+  font-size: 18px;
+}
+
+.saw{
+  margin-left: 15px;
+  font-size: 18px;
+  line-height: 2px;
+}
+
+.shiny{
+  margin-left: 15px;
+  font-size: 18px;
+}
+
+.stub{
+  margin-left: 15px;
+  font-size: 18px;
+  line-height: 2px;
+}
+
+.sand{
+  margin-left: 15px;
+  font-size: 18px;
+}
