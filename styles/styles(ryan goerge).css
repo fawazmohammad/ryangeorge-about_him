@@ -71,7 +71,7 @@ border-radius: 3px;
 .thebadguy{
   margin-left: 15px;
   font-size: 18px;
-  line-height: 2px;
+  line-height: 1;
 }
 
 .cookie{
@@ -82,21 +82,23 @@ border-radius: 3px;
 .saw{
   margin-left: 15px;
   font-size: 18px;
-  line-height: 2px;
+  line-height: 1px;
 }
 
 .shiny{
   margin-left: 15px;
   font-size: 18px;
+  line-height: 1;
 }
 
 .stub{
   margin-left: 15px;
   font-size: 18px;
-  line-height: 2px;
+  line-height: 1;
 }
 
 .sand{
   margin-left: 15px;
   font-size: 18px;
+  line-height: 1;
 }
